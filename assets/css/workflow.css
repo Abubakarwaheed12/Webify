@@ -17,7 +17,7 @@ body {
 /* ------------------------HEADER---------------------- */
 .hero_section{
         width: 100%;
-        background:  linear-gradient(rgba(6,21,39,0.502),rgba(6,21,39,0.502)), url('../images/Workflow.png') ;
+        background:  linear-gradient(rgba(6,21,39,0.502),rgba(6,21,39,0.502)), url('/assets/images/workflow.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
@@ -26,6 +26,7 @@ body {
         bottom: 101px;
         z-index: 9;
         padding-top: 101px; 
+        
 }
 /* ---custom scroll bar */
 ::-webkit-scrollbar{
